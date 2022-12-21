@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UditChauhan07/server-jenkins.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "udit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UditChauhan07/server-jenkins/issues"
+  },
+  "homepage": "https://github.com/UditChauhan07/server-jenkins#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
